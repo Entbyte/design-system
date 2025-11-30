@@ -1,0 +1,532 @@
+{
+    "variableCollection": {
+        "buttonStandardTertiaryDefault": {
+            "brightSolid": "#00000000",
+            "darkSolid": "#00000000",
+            "darkDynamic": "#191919d8",
+            "brightDynamic": "#dbdbdbd8"
+        },
+        "buttonStandardTertiaryCont": {
+            "brightSolid": "#0f0f0f",
+            "darkSolid": "#f9f9f9",
+            "darkDynamic": "#f9f9f9",
+            "brightDynamic": "#0a0a0a"
+        },
+        "buttonStandardSecondaryCont": {
+            "brightSolid": "#141414",
+            "darkSolid": "#f9f9f9",
+            "darkDynamic": "#f9f9f9",
+            "brightDynamic": "#0a0a0a"
+        },
+        "buttonStandardSecondaryDefault": {
+            "brightSolid": "#eaeaeaf2",
+            "darkSolid": "#262626f2",
+            "darkDynamic": "#2d2d2df2",
+            "brightDynamic": "#ddddddf2"
+        },
+        "buttonStandardPrimaryDefault": {
+            "brightSolid": "#191919",
+            "darkSolid": "#ffffff",
+            "darkDynamic": "#ffffff",
+            "brightDynamic": "#1e1e1e"
+        },
+        "buttonStandardPrimaryCont": {
+            "brightSolid": "#eeeeee",
+            "darkSolid": "#191919",
+            "darkDynamic": "#191919",
+            "brightDynamic": "#eeeeee"
+        },
+        "buttonStandardHighDefault": {
+            "brightSolid": "#007df2",
+            "darkSolid": "#0084ff",
+            "darkDynamic": "#0084ff",
+            "brightDynamic": "#0077e5"
+        },
+        "buttonStandardHighCont": {
+            "brightSolid": "#ffffff",
+            "darkSolid": "#ffffff",
+            "darkDynamic": "#ffffff",
+            "brightDynamic": "#ffffff"
+        },
+        "buttonStandardTertiaryLine": {
+            "brightSolid": "#00000014",
+            "darkSolid": "#2b2b2be5",
+            "darkDynamic": "#2c2c2ce5",
+            "brightDynamic": "#0000003f"
+        },
+        "buttonStandardSecoundaryLine": {
+            "brightSolid": "#00000005",
+            "darkSolid": "#ffffff05",
+            "darkDynamic": "#262626f2",
+            "brightDynamic": "#00000059"
+        },
+        "buttonStandardPrimaryLine": {
+            "brightSolid": "#ffffff00",
+            "darkSolid": "#00000000",
+            "darkDynamic": "#87878726",
+            "brightDynamic": "#ffffff26"
+        },
+        "buttonStandardHighLine": {
+            "brightSolid": "#00000000",
+            "darkSolid": "#00000000",
+            "darkDynamic": "#00000000",
+            "brightDynamic": "#00000000"
+        },
+        "buttonToggleActiveDefault": {
+            "brightSolid": "#0077e5",
+            "darkSolid": "#007ff5",
+            "darkDynamic": "#0084ff",
+            "brightDynamic": "#0077e5"
+        },
+        "buttonToggleEnableDefault": {
+            "brightSolid": "#bccbd8",
+            "darkSolid": "#2d3e4c",
+            "darkDynamic": "#2e3d4c",
+            "brightDynamic": "#c0c9d1"
+        },
+        "buttonToggleActiveCont": {
+            "brightSolid": "#ffffff",
+            "darkSolid": "#ffffff",
+            "darkDynamic": "#ffffff",
+            "brightDynamic": "#ffffff"
+        },
+        "buttonToggleActiveLine": {
+            "brightSolid": "#00000000",
+            "darkSolid": "#00000000",
+            "darkDynamic": "#00000000",
+            "brightDynamic": "#ffffff00"
+        },
+        "buttonToggleEnableCont": {
+            "brightSolid": "#000000",
+            "darkSolid": "#f9f9fa",
+            "darkDynamic": "#f0f2f5",
+            "brightDynamic": "#000000"
+        },
+        "buttonToggleEnableLine": {
+            "brightSolid": "#00000000",
+            "darkSolid": "#00000000",
+            "darkDynamic": "#ffffff0a",
+            "brightDynamic": "#0000000a"
+        },
+        "bgL1": {
+            "brightSolid": "#f9f9f9",
+            "darkSolid": "#050505",
+            "darkDynamic": "#000000",
+            "brightDynamic": "#ffffff"
+        },
+        "bgL2": {
+            "brightSolid": "#f2f2f2",
+            "darkSolid": "#0d0d0d",
+            "darkDynamic": "#070707",
+            "brightDynamic": "#f7f7f7"
+        },
+        "bgL3": {
+            "brightSolid": "#efefef",
+            "darkSolid": "#141414",
+            "darkDynamic": "#0f0f0f",
+            "brightDynamic": "#efefef"
+        },
+        "bgL4": {
+            "brightSolid": "#e8e8e8",
+            "darkSolid": "#161616",
+            "darkDynamic": "#161616",
+            "brightDynamic": "#e8e8e8"
+        },
+        "bgL5": {
+            "brightSolid": "#e0e0e0",
+            "darkSolid": "#1e1e1e",
+            "darkDynamic": "#1e1e1e",
+            "brightDynamic": "#e0e0e0"
+        },
+        "buttonStandardTertiaryPressed": {
+            "brightSolid": "#00000014",
+            "darkSolid": "#00000019",
+            "darkDynamic": "#0a0a0ab2",
+            "brightDynamic": "#d1d1d1cc"
+        },
+        "buttonStandardTertiaryHover": {
+            "brightSolid": "#0000000a",
+            "darkSolid": "#00000019",
+            "darkDynamic": "#262626cc",
+            "brightDynamic": "#e5e5e5d8"
+        },
+        "buttonStandardTertiaryDisable": {
+            "brightSolid": "#00000000",
+            "darkSolid": "#00000019",
+            "darkDynamic": "#1919197f",
+            "brightDynamic": "#dbdbdbcc"
+        },
+        "buttonStandardSecondaryPressed": {
+            "brightSolid": "#ccccccf2",
+            "darkSolid": "#262626e5",
+            "darkDynamic": "#262626f2",
+            "brightDynamic": "#ccccccf2"
+        },
+        "buttonStandardSecondaryHover": {
+            "brightSolid": "#f2f2f2f2",
+            "darkSolid": "#3f3f3fe5",
+            "darkDynamic": "#191919f2",
+            "brightDynamic": "#e8e8e8f2"
+        },
+        "buttonStandardSecondaryDisable": {
+            "brightSolid": "#eaeaeaf2",
+            "darkSolid": "#262626cc",
+            "darkDynamic": "#262626cc",
+            "brightDynamic": "#ddddddf2"
+        },
+        "buttonStandardPrimaryPressed": {
+            "brightSolid": "#3f3f3fe5",
+            "darkSolid": "#f4f4f4e5",
+            "darkDynamic": "#f4f4f4f2",
+            "brightDynamic": "#4c4c4cf2"
+        },
+        "buttonStandardPrimaryHover": {
+            "brightSolid": "#191919",
+            "darkSolid": "#e8e8e8",
+            "darkDynamic": "#e8e8e8",
+            "brightDynamic": "#191919"
+        },
+        "buttonStandardPrimaryDisable": {
+            "brightSolid": "#cccccce5",
+            "darkSolid": "#727272e5",
+            "darkDynamic": "#727272e5",
+            "brightDynamic": "#cccccce5"
+        },
+        "buttonStandardHighPressed": {
+            "brightSolid": "#0071dbf7",
+            "darkSolid": "#148efff7",
+            "darkDynamic": "#148efff7",
+            "brightDynamic": "#0071dbf7"
+        },
+        "buttonStandardHighHover": {
+            "brightSolid": "#007ceff7",
+            "darkSolid": "#006fd6f7",
+            "darkDynamic": "#005fb7f7",
+            "brightDynamic": "#007df2f7"
+        },
+        "buttonStandardHighDisable": {
+            "brightSolid": "#7dacd8e5",
+            "darkSolid": "#29537ae5",
+            "darkDynamic": "#29537ae5",
+            "brightDynamic": "#7dacd8e5"
+        },
+        "buttonToggleActivePressed": {
+            "brightSolid": "#0071dbf7",
+            "darkSolid": "#148efff7",
+            "darkDynamic": "#0071dbf7",
+            "brightDynamic": "#0071dbf7"
+        },
+        "buttonToggleActiveHover": {
+            "brightSolid": "#007df2",
+            "darkSolid": "#006fd6",
+            "darkDynamic": "#006fd6",
+            "brightDynamic": "#0079ea"
+        },
+        "buttonToggleActiveDisable": {
+            "brightSolid": "#7dacd8e5",
+            "darkSolid": "#1d5991e5",
+            "darkDynamic": "#1d5991e5",
+            "brightDynamic": "#7dacd8e5"
+        },
+        "buttonToggleEnablePressed": {
+            "brightSolid": "#ced4d9f7",
+            "darkSolid": "#2e3e4df7",
+            "darkDynamic": "#2e3d4df7",
+            "brightDynamic": "#c7ccd1f7"
+        },
+        "buttonToggleEnableHover": {
+            "brightSolid": "#d9e0e5f7",
+            "darkSolid": "#2e3e4df7",
+            "darkDynamic": "#2e3d4df7",
+            "brightDynamic": "#cbd1d6f7"
+        },
+        "buttonToggleEnableDisable": {
+            "brightSolid": "#ced4d9f7",
+            "darkSolid": "#2e3e4df7",
+            "darkDynamic": "#2e3d4df7",
+            "brightDynamic": "#c7ccd1f7"
+        },
+        "buttonFunctionalAdditiveDefault": {
+            "brightSolid": "#18aa38",
+            "darkSolid": "#18aa38",
+            "darkDynamic": "#18aa38",
+            "brightDynamic": "#18aa38"
+        },
+        "buttonStandardHighHwLine": {
+            "brightSolid": "#ffffffb2",
+            "darkSolid": "#ffffffb2",
+            "darkDynamic": "#ffffffb2",
+            "brightDynamic": "#ffffffb2"
+        },
+        "buttonStandardPrimaryHwLine": {
+            "brightSolid": "#ffffffb2",
+            "darkSolid": "#000000b2",
+            "darkDynamic": "#000000b2",
+            "brightDynamic": "#ffffffb2"
+        },
+        "buttonStandardSecondaryHwLine": {
+            "brightSolid": "#000000b2",
+            "darkSolid": "#ffffffb2",
+            "darkDynamic": "#ffffffb2",
+            "brightDynamic": "#000000b2"
+        },
+        "buttonStandardTertiaryHwLine": {
+            "brightSolid": "#000000b2",
+            "darkSolid": "#ffffffb2",
+            "darkDynamic": "#ffffffb2",
+            "brightDynamic": "#000000b2"
+        },
+        "buttonToggleActiveHwLine": {
+            "brightSolid": "#ffffffb2",
+            "darkSolid": "#ffffffb2",
+            "darkDynamic": "#ffffffb2",
+            "brightDynamic": "#ffffffb2"
+        },
+        "buttonToggleEnableHwLine": {
+            "brightSolid": "#000000b2",
+            "darkSolid": "#ffffffb2",
+            "darkDynamic": "#ffffffb2",
+            "brightDynamic": "#000000b2"
+        },
+        "buttonFunctionalAdditivePressed": {
+            "brightSolid": "#1abc3e",
+            "darkSolid": "#1abc3e",
+            "darkDynamic": "#1abc3e",
+            "brightDynamic": "#1abc3e"
+        },
+        "buttonFunctionalAdditiveHover": {
+            "brightSolid": "#13862c",
+            "darkSolid": "#13862c",
+            "darkDynamic": "#13862c",
+            "brightDynamic": "#13862c"
+        },
+        "buttonFunctionalAdditiveDisable": {
+            "brightSolid": "#9cc9a5",
+            "darkSolid": "#305a39",
+            "darkDynamic": "#305a39",
+            "brightDynamic": "#9cc9a5"
+        },
+        "buttonFunctionalAdditiveAdditiveLine": {
+            "brightSolid": "#00000019",
+            "darkSolid": "#ffffff19",
+            "darkDynamic": "#ffffff19",
+            "brightDynamic": "#00000019"
+        },
+        "buttonFunctionalAdditiveAdditiveHwLine": {
+            "brightSolid": "#ffffff",
+            "darkSolid": "#ffffff",
+            "darkDynamic": "#ffffff",
+            "brightDynamic": "#ffffff"
+        },
+        "buttonFunctionalAdditiveContent": {
+            "brightSolid": "#ffffff",
+            "darkSolid": "#ffffff",
+            "darkDynamic": "#ffffff",
+            "brightDynamic": "#ffffff"
+        },
+        "buttonFunctionalDestructiveDefault": {
+            "brightSolid": "#e12d2d",
+            "darkSolid": "#e12d2d",
+            "darkDynamic": "#e12d2d",
+            "brightDynamic": "#e12d2d"
+        },
+        "buttonFunctionalDestructivePressed": {
+            "brightSolid": "#e43f3f",
+            "darkSolid": "#e43f3f",
+            "darkDynamic": "#e43f3f",
+            "brightDynamic": "#e43f3f"
+        },
+        "buttonFunctionalDestructiveHover": {
+            "brightSolid": "#c91d1d",
+            "darkSolid": "#c91d1d",
+            "darkDynamic": "#c91d1d",
+            "brightDynamic": "#c91d1d"
+        },
+        "buttonFunctionalDestructiveDisable": {
+            "brightSolid": "#df9b9b",
+            "darkSolid": "#6c3535",
+            "darkDynamic": "#6c3535",
+            "brightDynamic": "#df9b9b"
+        },
+        "buttonFunctionalDestructiveLine": {
+            "brightSolid": "#ffffff19",
+            "darkSolid": "#ffffff19",
+            "darkDynamic": "#ffffff19",
+            "brightDynamic": "#ffffff19"
+        },
+        "buttonFunctionalDestructiveHwLine": {
+            "brightSolid": "#ffffff",
+            "darkSolid": "#ffffff",
+            "darkDynamic": "#ffffff",
+            "brightDynamic": "#ffffff"
+        },
+        "buttonFunctionalDestructiveContent": {
+            "brightSolid": "#ffffff",
+            "darkSolid": "#ffffff",
+            "darkDynamic": "#ffffff",
+            "brightDynamic": "#ffffff"
+        },
+        "buttonFunctionalDestructiveContentDisable": {
+            "brightSolid": "#ffe1e1",
+            "darkSolid": "#987272",
+            "darkDynamic": "#987272",
+            "brightDynamic": "#ffe1e1"
+        },
+        "buttonFunctionalAdditiveContentDisable": {
+            "brightSolid": "#e0ebe3",
+            "darkSolid": "#5c8a66",
+            "darkDynamic": "#5c8a66",
+            "brightDynamic": "#e0ebe3"
+        },
+        "buttonToggleActiveContDisable": {
+            "brightSolid": "#d0e2f2",
+            "darkSolid": "#6c7e90",
+            "darkDynamic": "#6d7e91",
+            "brightDynamic": "#d0e2f2"
+        },
+        "buttonStandardHighContDisable": {
+            "brightSolid": "#d0e2f2",
+            "darkSolid": "#5a7590",
+            "darkDynamic": "#5a7590",
+            "brightDynamic": "#bed2e3"
+        },
+        "buttonStandardSecondaryContDisable": {
+            "brightSolid": "#a4a4a4",
+            "darkSolid": "#5d5d5d",
+            "darkDynamic": "#777777",
+            "brightDynamic": "#a4a4a4"
+        },
+        "buttonStandardPrimaryContDisable": {
+            "brightSolid": "#979797",
+            "darkSolid": "#313131",
+            "darkDynamic": "#313131",
+            "brightDynamic": "#979797"
+        },
+        "buttonStandardTertiaryContDisable": {
+            "brightSolid": "#b3b3b3",
+            "darkSolid": "#4b4b4b",
+            "darkDynamic": "#666666",
+            "brightDynamic": "#949494"
+        },
+        "buttonToggleEnableContDisable": {
+            "brightSolid": "#969ea6",
+            "darkSolid": "#7a8188",
+            "darkDynamic": "#676d72",
+            "brightDynamic": "#959ea5"
+        },
+        "buttonTogglePrimaryEnableContDefault": {
+            "brightSolid": "#474747",
+            "darkSolid": "#f9f9f9",
+            "darkDynamic": "#f9f9f9",
+            "brightDynamic": "#222222"
+        },
+        "buttonStandardTertiaryGradLine1": {
+            "brightSolid": "#00000014",
+            "darkSolid": "#4c4c4c8c",
+            "darkDynamic": "#4c4c4c72",
+            "brightDynamic": "#b2b2b266"
+        },
+        "buttonStandardTertiaryGradLine2": {
+            "brightSolid": "#00000014",
+            "darkSolid": "#4c4c4c8c",
+            "darkDynamic": "#4c4c4c72",
+            "brightDynamic": "#b2b2b266"
+        },
+        "buttonStandardSecondaryGradLine1": {
+            "brightSolid": "#dadadae5",
+            "darkSolid": "#262626e5",
+            "darkDynamic": "#383838f2",
+            "brightDynamic": "#c4c4c4f2"
+        },
+        "buttonStandardSecondaryGradLine2": {
+            "brightSolid": "#dadadae5",
+            "darkSolid": "#262626e5",
+            "darkDynamic": "#383838f2",
+            "brightDynamic": "#c4c4c4f2"
+        },
+        "bgL6": {
+            "brightSolid": "#d9d9d9",
+            "darkSolid": "#262626",
+            "darkDynamic": "#262626",
+            "brightDynamic": "#d9d9d9"
+        },
+        "bGValue": {
+            "brightSolid": "L1",
+            "darkSolid": "L1",
+            "darkDynamic": "L1",
+            "brightDynamic": "L1"
+        },
+        "btnL1": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "btnL2": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "btnL3": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "btnL4": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "btnL5": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "btnL6": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "btnL7": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "btnL8": {
+            "brightSolid": "False",
+            "darkSolid": "False",
+            "darkDynamic": "False",
+            "brightDynamic": "False"
+        },
+        "bgShadowShadow": {
+            "brightSolid": "#00000007",
+            "darkSolid": "#ffffff02",
+            "darkDynamic": "#ffffff02",
+            "brightDynamic": "#00000007"
+        },
+        "prototypeToggleBG": {
+            "brightSolid": "#ffffff7f",
+            "darkSolid": "#0000007f",
+            "darkDynamic": "#000000cc",
+            "brightDynamic": "#ffffffcc"
+        },
+        "prototypeTextPrimary": {
+            "brightSolid": "#000000",
+            "darkSolid": "#eae9e9",
+            "darkDynamic": "#eae9e9",
+            "brightDynamic": "#000000"
+        },
+        "prototypeTextSecondary": {
+            "brightSolid": "#6d6d6d",
+            "darkSolid": "#a3a3a3",
+            "darkDynamic": "#a3a3a3",
+            "brightDynamic": "#6d6d6d"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+/* YTTRE SHAPE – stora ramen */
+.shape {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  /* avstånd mellan outer ring och inner bg */
+  padding: 8px;
+
+  /* ytter-radie (Shape-frame i Figma) */
+  border-radius: var(--btn-outer-radius, 16px);
+
+  /* outer-ytan kan vara transparent (default/disable)
+     eller samma som inner bg (hover/pressed) */
+  background: var(--btn-outer-bg, transparent);
+  border: none;
+
+  /* outer HW-line: alltid 4px för att undvika "hopp",
+     men färgen kan vara transparent i default/disable */
+  box-shadow: 0 0 0 4px var(--btn-outer-border-color, transparent);
+
+  font-family: Roboto, system-ui, sans-serif;
+}
+
+/* INNER “BG”-LAGRET – motsvarar bg-rect i Figma */
+.bg {
+  box-sizing: border-box;
+  border-radius: var(--btn-radius, 8px);
+
+  /* bakgrundsfärg från tokens */
+  background: var(--btn-bg, #191919);
+
+  /* inner 4 px stroke (Grad_secondary / HW-line etc.) */
+  border-width: 4px;
+  border-style: solid;
+  border-color: var(--btn-border-color, rgba(255, 255, 255, 0.7));
+
+  padding: var(--btn-padding-y, 24px) var(--btn-padding-x, 56px)
+    var(--btn-padding-bottom, 20px);
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+/* CONTENT / LAYOUT */
+
+.content {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.holder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--btn-gap, 16px);
+}
+
+/* IKON-BEHÅLLARE (64x64) */
+
+.icon64px {
+  height: var(--btn-icon-box-size, 64px);
+  width: var(--btn-icon-box-size, 64px);
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+/* själva SVG-ikonen är 64x64, färgsätts av currentColor */
+.icon64px svg {
+  width: 64px;
+  height: 64px;
+  display: block;
+  color: var(--btn-text-color, #efefef); /* _cont-token */
+}
+
+/* TEXT */
+
+.button {
+  position: relative;
+  font-weight: 500;
+  flex-shrink: 0;
+  font-size: var(--btn-font-size, 50px);
+  color: var(--btn-text-color, #efefef); /* _cont-token */
+  text-align: center;
+}
